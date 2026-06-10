@@ -64,6 +64,7 @@ The dataset contains transaction-level shopping data, including:
 
 ## Project Structure
 
+```
 customer-shopping-analysis/
 │
 ├── customer_shopping_data.csv
@@ -71,6 +72,7 @@ customer-shopping-analysis/
 ├── insights.md
 ├── README.md
 └── screenshots/
+```
 
 ## Author
 
