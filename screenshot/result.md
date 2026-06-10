@@ -12,3 +12,21 @@
 ## Q4: Which payment method was used most frequently?
 ![Q4](q4_Payment_method_used_frequently.png)
 
+## Q5: Which shopping mall generated the highest total revenue?
+![Q5](q5_top_mall.png)
+
+## Q6: How did sales revenue vary across different months?
+![Q6](q6_monthly_sales.png)
+
+## Q7: Who are the top 5 customers based on total spending?
+![Q7](q7_top_customers.png)
+
+## Q8: How does revenue contribution differ between genders?
+![Q8](q8_revenue_by_gender.png)
+
+## Q9: What is the average customer age for each product category?
+![Q9](q9_avg_age_category.png)
+
+## Q10: Which payment methods generated the highest revenue?
+![Q10](q10_payment_revenue.png)
+
