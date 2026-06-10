@@ -1,0 +1,4 @@
+Q1: Retrieve all records from the shopping dataset
+SELECT * FROM shopping;
+
+
