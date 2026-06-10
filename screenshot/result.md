@@ -28,5 +28,5 @@
 ![Q9](q9_avg_age_category.png)
 
 ## Q10: Which payment methods generated the highest revenue?
-![Q10](q10_payment_revenue.png)
+![Q10](q10_payement_revenue.png)
 
