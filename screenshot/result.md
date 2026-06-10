@@ -13,7 +13,7 @@
 ![Q4](q4_Payment_method_used_frequently.png)
 
 ## Q5: Which shopping mall generated the highest total revenue?
-![Q5](q5_shopping_mall_with_highest_revenue.png)
+![Q5](q5_top_mall.png)
 
 ## Q6: How did sales revenue vary across different months?
 ![Q6](q6_monthly_sales.png)
